@@ -1,0 +1,29 @@
+[00:02:48] [Server thread/INFO]: [Not Secure] <sep2504> quita toda el agua de la base
+[00:04:42] [Server thread/INFO]: [sep2504: Set own game mode to Creative Mode]
+[00:05:00] [Server thread/INFO]: [sep2504: Set Dantom1204's game mode to Creative Mode]
+[00:10:45] [Server thread/INFO]: [sep2504: Set Dantom1204's game mode to Survival Mode]
+[00:10:46] [Server thread/INFO]: [sep2504: Set own game mode to Survival Mode]
+[00:13:47] [Server thread/INFO]: [sep2504: Set own game mode to Creative Mode]
+[00:13:50] [Server thread/INFO]: [sep2504: Set own game mode to Survival Mode]
+[00:20:59] [Server thread/INFO]: sep2504 fell from a high place
+[00:21:18] [Server thread/INFO]: [sep2504: Set own game mode to Creative Mode]
+[00:21:26] [Server thread/INFO]: [sep2504: Set own game mode to Survival Mode]
+[00:22:16] [Server thread/INFO]: [sep2504: Set own game mode to Creative Mode]
+[00:22:21] [Server thread/INFO]: [sep2504: Set own game mode to Survival Mode]
+[00:28:21] [Server thread/INFO]: Dantom1204 lost connection: Disconnected
+[00:28:21] [Server thread/INFO]: Dantom1204 left the game
+[00:28:22] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[00:28:22] [Server thread/INFO]: e/stop<--[HERE]
+[00:28:35] [Server thread/INFO]: Stopping the server
+[00:28:35] [Server thread/INFO]: Stopping server
+[00:28:35] [Server thread/INFO]: Saving players
+[00:28:35] [Server thread/INFO]: sep2504 lost connection: Server closed
+[00:28:35] [Server thread/INFO]: sep2504 left the game
+[00:28:35] [Server thread/INFO]: Saving worlds
+[00:28:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:28:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:28:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:28:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:28:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:28:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:28:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
